@@ -8,9 +8,9 @@ Miami has long been a center of numerous cultures, experiences, and artistic tra
 However, rapidly rising housing costs, rampant gentrification, and political pressures are making it increasingly difficult for the artistic community to survive and thrive. 
 
 Objectives for this study: 
-> Assess housing affordability for artists in Miami
-> Analyze wage data and rental market trends 
-> Identify affordable and unaffordable areas.
+ - Assess housing affordability for artists in Miami  
+ - Analyze wage data and rental market trends   
+ - Identify affordable and unaffordable areas.  
 
 
 #### II. Data Collection 
